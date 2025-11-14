@@ -34,6 +34,8 @@ pip install requests rich
 
 git clone https://github.com/DEVIL-DOOR/iNFiNiTY-WSATSAPP-REPORT.git
 
+cd iNFiNiTY-WSATSAPP-REPORT
+
 python infinity_report.py
 
 📖  কীভাবে ব্যবহার করবেন?  📖
